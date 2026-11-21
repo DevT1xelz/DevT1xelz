@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090711"/>
+      <stop offset="0.55" stop-color="#171027"/>
+      <stop offset="1" stop-color="#090711"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="150" y1="70" x2="1050" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientTransform="translate(940 75) rotate(135) scale(400 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#C4B5FD" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#orb)"/>
+  <circle cx="1000" cy="175" r="170" stroke="#A78BFA" stroke-opacity=".13"/>
+  <circle cx="1000" cy="175" r="125" stroke="#A78BFA" stroke-opacity=".12"/>
+  <circle cx="1000" cy="175" r="80" stroke="#A78BFA" stroke-opacity=".10"/>
+  <path d="M790 280L1080 30" stroke="url(#glow)" stroke-opacity=".28" stroke-width="1.5"/>
+  <path d="M850 330L1140 80" stroke="url(#glow)" stroke-opacity=".18" stroke-width="1.5"/>
+  <rect x="76" y="76" width="5" height="208" rx="2.5" fill="url(#glow)"/>
+  <text x="112" y="158" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2">DevT1xelz</text>
+  <text x="116" y="207" fill="#C4B5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <text x="116" y="253" fill="#A1A1AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Building tools, applications &amp; custom experiences.</text>
+  <g opacity=".9">
+    <circle cx="1070" cy="105" r="4" fill="#C4B5FD"/>
+    <circle cx="1110" cy="145" r="2.5" fill="#8B5CF6"/>
+    <circle cx="930" cy="250" r="3" fill="#A78BFA"/>
+    <circle cx="1045" cy="280" r="2" fill="#C4B5FD"/>
+  </g>
+  <text x="112" y="315" fill="#6D5A91" font-family="Consolas,monospace" font-size="12" letter-spacing="2">IDEAS  /  CODE  /  REALITY</text>
+</svg>
