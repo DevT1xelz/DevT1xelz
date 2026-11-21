@@ -4,23 +4,27 @@
 
 <br>
 
-### `Software Developer` · `Plugin Developer` · `Builder of tools`
+<img src="assets/terminal-animation.gif" alt="Animated developer terminal" width="100%">
+
+<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/DevT1xelz?style=for-the-badge&logo=github&label=Followers&color=8B5CF6)](https://github.com/DevT1xelz?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=DevT1xelz&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/DevT1xelz)
 
 </div>
 
----
+<img src="assets/purple-divider.gif" width="100%" alt="Animated purple divider">
 
 ## `> whoami`
 
-I'm a developer focused on building software, tools and custom solutions.  
-I enjoy turning ideas into practical projects — from backend logic and integrations to desktop applications and Minecraft plugins.
+I'm a developer interested in software development, programming languages and creating useful digital tools.  
+I enjoy learning new technologies, solving problems and turning ideas into working applications.
 
-- Building projects with an emphasis on maintainability and usability.
-- Exploring application development, automation and server-side systems.
-- Always learning, experimenting and improving my workflow.
+- Exploring different areas of software development.
+- Practicing clean, maintainable and understandable code.
+- Always learning, experimenting and improving my skills.
+
+<img src="assets/purple-divider.gif" width="100%" alt="Animated purple divider">
 
 ## `> languages_&_tools`
 
@@ -50,16 +54,7 @@ I enjoy turning ideas into practical projects — from backend logic and integra
 
 </div>
 
-## `> selected_work`
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| **TzLauncher** | A desktop launcher project for Minecraft. | Electron · JavaScript |
-| **TzStudio** | A set of tools and utilities for development workflows. | Web · JavaScript |
-| **PulseSync Together** | A project focused on synchronized music listening. | Node.js |
-| **Minecraft Plugins** | Custom gameplay mechanics and server-side tools. | Java · Paper/Spigot |
-
-> Project links can be added once the repositories are public. Replace each project name with its GitHub repository URL when ready.
+<img src="assets/purple-divider.gif" width="100%" alt="Animated purple divider">
 
 ## `> github_stats`
 
@@ -78,6 +73,8 @@ I enjoy turning ideas into practical projects — from backend logic and integra
 
 </div>
 
+<img src="assets/purple-divider.gif" width="100%" alt="Animated purple divider">
+
 ## `> contribution_activity`
 
 <div align="center">
@@ -86,12 +83,12 @@ I enjoy turning ideas into practical projects — from backend logic and integra
 
 </div>
 
----
+<img src="assets/purple-divider.gif" width="100%" alt="Animated purple divider">
 
 <div align="center">
 
 **`Ideas → Code → Reality`**
 
-<sub>Designed with ☾ and a little bit of purple.</sub>
+<sub>Always building. Always learning.</sub>
 
 </div>
